@@ -1,2 +1,5 @@
 markdown: rdiscount
 pygments: true
+name: David Crawford's Writings
+description: Essays on life, business, and technology
+url: http://blog.davidcrawford.co
