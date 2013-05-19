@@ -1,0 +1,87 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 11pt;
+    line-height: 1.3em;
+}
+
+.header {
+
+}
+
+#engine {
+    position: fixed;
+    top: -44px;
+    left: -208px;
+    width: 642px;
+    height: 475px;
+}
+
+.site {
+    margin-left: 460px;
+    width: 600px;
+    margin-top: 45px;
+}
+
+.top {
+    font-size: 1.3em;
+    line-height: 1.4em;
+    margin-bottom: 3em;
+    font-family: 'Raleway', sans-serif;
+}
+
+.large {
+    font-size: 1.8em;
+}
+
+.red {
+    color: rgb(209, 18, 68);
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    border-bottom: 1px solid rgb(209, 18, 68)
+}
+
+a:visited {
+    color: black;
+}
+
+a.icon {
+    color: rgb(209, 18, 68);
+    border: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.posts li {
+    margin-bottom: 1.2em;
+}
+
+.posts .title {
+    font-size: 1.3em;
+    line-height: 1.4em;
+    font-family: 'Raleway' sans-serif;
+}
+
+.posts .title a {
+    border: none;
+}
+
+.posts .date {
+    text-transform: uppercase;
+    color: rgb(170, 170, 170);
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.footer {
+    background-color: rgb(250, 250, 250);
+    margin: 20px -15px;
+    padding: 15px;
+}
