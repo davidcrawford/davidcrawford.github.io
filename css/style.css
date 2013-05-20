@@ -8,18 +8,30 @@ body {
 
 }
 
-#engine {
-    position: fixed;
-    top: -44px;
-    left: -208px;
-    width: 642px;
-    height: 475px;
+@media (min-width: 1060px) {
+    .site {
+        width: 600px;
+        margin-left: 460px;
+        margin-top: 45px;
+    }
+
+    #engine {
+        position: fixed;
+        top: -44px;
+        left: -208px;
+        width: 642px;
+        height: 475px;
+    }
 }
 
-.site {
-    margin-left: 460px;
-    width: 600px;
-    margin-top: 45px;
+@media (max-width: 1059px) {
+    #engine {
+        display: none;
+    }
+    
+    .site {
+        max-width: 600px;
+    }
 }
 
 .top {
