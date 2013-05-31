@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Smite the sounding furrows
-snippet: Software engineers can do anything we want. We command a high salary flexibility at work, can freelance easily, and can start a small business with almost no up front cost. We're not alone in this, but we're on the high end or our ability to choose any detail of our lives.
+snippet: Software engineers can do anything we want. We command a high salary, flexibility at work, can freelance easily, and can start a small business with almost no up front cost. We're not alone in this, but we're on the high end or our ability to choose any detail of our lives.
 ---
 
 # Smite the sounding furrows
 
-Software engineers can do anything we want.  We command a high salary flexibility at work, can freelance easily, and can start a small business with almost no up front cost.  We're not alone in this, but we're on the high end or our ability to choose any detail of our lives.
+Software engineers can do anything we want.  We command a high salary, flexibility at work, can freelance easily, and can start a small business with almost no up front cost.  We're not alone in this, but we're on the high end or our ability to choose any detail of our lives.
 
 Even if we can't control the way we work, we don't really have to work that much.  If we haven't locked ourselves into a mortgage, car payments, or taken on the wonderful but expensive task of raising a child, we can live very comfortably on a fraction of our income.  According to [glassdoor.com](http://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), the average salary for a software engineer in San Francisco is $90k, which we'll say is $70k post tax.  I'm currently living just outside the city on about $50k per year.  So if you're just an average software engineer, you can work one year and then take the next _four and a half_ months off and do whatever you want with your time!  If you take your $20k in savings and fly to Vietnam, you can probably live on it for a _year_.  If you're an above average engineer and make closer to 120-150k, you have even more freedom.
 
